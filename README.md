@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel van Raamsdonk</h1>
 <h3 align="center">A passionate student willing to learn new things everyday</h3>
 
-- 🔭 I’m currently working on *univerisity projects*
+- 🔭 I’m currently working on *university projects*
 
 - 🌱 I’m currently learning *Java programming, Networking, Machine Learning, Eletric circuits*
 
